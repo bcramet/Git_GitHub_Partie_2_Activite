@@ -3,3 +3,4 @@
 print "Enter your Facebook login";
 print "Enter your password";
 ?>
+<input type="submit">
